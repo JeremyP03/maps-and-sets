@@ -1,0 +1,12 @@
+Quick Question #1
+what does the following code return?
+{1,2,3,4}
+
+Quick Question #2
+what does the following code return?
+'ref'
+
+Quick Question #3
+what does the Map m look like after running the following code?
+0: {Array(3) => true}
+1: {Array(3) => false}
